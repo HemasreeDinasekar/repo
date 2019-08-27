@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>angular4-client</groupId>
+  <artifactId>angular4-client</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190814120514</lastUpdated>
+  </versioning>
+</metadata>
